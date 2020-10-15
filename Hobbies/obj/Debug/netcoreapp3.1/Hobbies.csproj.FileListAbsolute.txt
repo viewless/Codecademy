@@ -1,0 +1,13 @@
+D:\Viewless Account\Desktop\Hobbies\obj\Debug\netcoreapp3.1\Hobbies.csprojAssemblyReference.cache
+D:\Viewless Account\Desktop\Hobbies\obj\Debug\netcoreapp3.1\Hobbies.AssemblyInfoInputs.cache
+D:\Viewless Account\Desktop\Hobbies\obj\Debug\netcoreapp3.1\Hobbies.AssemblyInfo.cs
+D:\Viewless Account\Desktop\Hobbies\obj\Debug\netcoreapp3.1\Hobbies.csproj.CoreCompileInputs.cache
+D:\Viewless Account\Desktop\Hobbies\bin\Debug\netcoreapp3.1\Hobbies.exe
+D:\Viewless Account\Desktop\Hobbies\bin\Debug\netcoreapp3.1\Hobbies.deps.json
+D:\Viewless Account\Desktop\Hobbies\bin\Debug\netcoreapp3.1\Hobbies.runtimeconfig.json
+D:\Viewless Account\Desktop\Hobbies\bin\Debug\netcoreapp3.1\Hobbies.runtimeconfig.dev.json
+D:\Viewless Account\Desktop\Hobbies\bin\Debug\netcoreapp3.1\Hobbies.dll
+D:\Viewless Account\Desktop\Hobbies\bin\Debug\netcoreapp3.1\Hobbies.pdb
+D:\Viewless Account\Desktop\Hobbies\obj\Debug\netcoreapp3.1\Hobbies.dll
+D:\Viewless Account\Desktop\Hobbies\obj\Debug\netcoreapp3.1\Hobbies.pdb
+D:\Viewless Account\Desktop\Hobbies\obj\Debug\netcoreapp3.1\Hobbies.genruntimeconfig.cache

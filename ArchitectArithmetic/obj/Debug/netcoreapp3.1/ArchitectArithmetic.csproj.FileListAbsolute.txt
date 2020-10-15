@@ -1,0 +1,13 @@
+D:\Viewless Account\Desktop\ArchitectArithmetic\bin\Debug\netcoreapp3.1\ArchitectArithmetic.exe
+D:\Viewless Account\Desktop\ArchitectArithmetic\bin\Debug\netcoreapp3.1\ArchitectArithmetic.deps.json
+D:\Viewless Account\Desktop\ArchitectArithmetic\bin\Debug\netcoreapp3.1\ArchitectArithmetic.runtimeconfig.json
+D:\Viewless Account\Desktop\ArchitectArithmetic\bin\Debug\netcoreapp3.1\ArchitectArithmetic.runtimeconfig.dev.json
+D:\Viewless Account\Desktop\ArchitectArithmetic\bin\Debug\netcoreapp3.1\ArchitectArithmetic.dll
+D:\Viewless Account\Desktop\ArchitectArithmetic\bin\Debug\netcoreapp3.1\ArchitectArithmetic.pdb
+D:\Viewless Account\Desktop\ArchitectArithmetic\obj\Debug\netcoreapp3.1\ArchitectArithmetic.AssemblyInfoInputs.cache
+D:\Viewless Account\Desktop\ArchitectArithmetic\obj\Debug\netcoreapp3.1\ArchitectArithmetic.AssemblyInfo.cs
+D:\Viewless Account\Desktop\ArchitectArithmetic\obj\Debug\netcoreapp3.1\ArchitectArithmetic.csproj.CoreCompileInputs.cache
+D:\Viewless Account\Desktop\ArchitectArithmetic\obj\Debug\netcoreapp3.1\ArchitectArithmetic.dll
+D:\Viewless Account\Desktop\ArchitectArithmetic\obj\Debug\netcoreapp3.1\ArchitectArithmetic.pdb
+D:\Viewless Account\Desktop\ArchitectArithmetic\obj\Debug\netcoreapp3.1\ArchitectArithmetic.genruntimeconfig.cache
+D:\Viewless Account\Desktop\ArchitectArithmetic\obj\Debug\netcoreapp3.1\ArchitectArithmetic.csprojAssemblyReference.cache

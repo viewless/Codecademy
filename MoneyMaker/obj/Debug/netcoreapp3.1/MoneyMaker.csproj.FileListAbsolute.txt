@@ -1,0 +1,13 @@
+D:\Viewless Account\Desktop\MoneyMaker\bin\Debug\netcoreapp3.1\MoneyMaker.exe
+D:\Viewless Account\Desktop\MoneyMaker\bin\Debug\netcoreapp3.1\MoneyMaker.deps.json
+D:\Viewless Account\Desktop\MoneyMaker\bin\Debug\netcoreapp3.1\MoneyMaker.runtimeconfig.json
+D:\Viewless Account\Desktop\MoneyMaker\bin\Debug\netcoreapp3.1\MoneyMaker.runtimeconfig.dev.json
+D:\Viewless Account\Desktop\MoneyMaker\bin\Debug\netcoreapp3.1\MoneyMaker.dll
+D:\Viewless Account\Desktop\MoneyMaker\bin\Debug\netcoreapp3.1\MoneyMaker.pdb
+D:\Viewless Account\Desktop\MoneyMaker\obj\Debug\netcoreapp3.1\MoneyMaker.csprojAssemblyReference.cache
+D:\Viewless Account\Desktop\MoneyMaker\obj\Debug\netcoreapp3.1\MoneyMaker.AssemblyInfoInputs.cache
+D:\Viewless Account\Desktop\MoneyMaker\obj\Debug\netcoreapp3.1\MoneyMaker.AssemblyInfo.cs
+D:\Viewless Account\Desktop\MoneyMaker\obj\Debug\netcoreapp3.1\MoneyMaker.csproj.CoreCompileInputs.cache
+D:\Viewless Account\Desktop\MoneyMaker\obj\Debug\netcoreapp3.1\MoneyMaker.dll
+D:\Viewless Account\Desktop\MoneyMaker\obj\Debug\netcoreapp3.1\MoneyMaker.pdb
+D:\Viewless Account\Desktop\MoneyMaker\obj\Debug\netcoreapp3.1\MoneyMaker.genruntimeconfig.cache
