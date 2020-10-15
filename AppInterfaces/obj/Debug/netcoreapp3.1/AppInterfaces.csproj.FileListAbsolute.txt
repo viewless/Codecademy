@@ -1,0 +1,13 @@
+D:\Developer\Codecademy\AppInterfaces\bin\Debug\netcoreapp3.1\AppInterfaces.exe
+D:\Developer\Codecademy\AppInterfaces\bin\Debug\netcoreapp3.1\AppInterfaces.deps.json
+D:\Developer\Codecademy\AppInterfaces\bin\Debug\netcoreapp3.1\AppInterfaces.runtimeconfig.json
+D:\Developer\Codecademy\AppInterfaces\bin\Debug\netcoreapp3.1\AppInterfaces.runtimeconfig.dev.json
+D:\Developer\Codecademy\AppInterfaces\bin\Debug\netcoreapp3.1\AppInterfaces.dll
+D:\Developer\Codecademy\AppInterfaces\bin\Debug\netcoreapp3.1\AppInterfaces.pdb
+D:\Developer\Codecademy\AppInterfaces\obj\Debug\netcoreapp3.1\AppInterfaces.csprojAssemblyReference.cache
+D:\Developer\Codecademy\AppInterfaces\obj\Debug\netcoreapp3.1\AppInterfaces.AssemblyInfoInputs.cache
+D:\Developer\Codecademy\AppInterfaces\obj\Debug\netcoreapp3.1\AppInterfaces.AssemblyInfo.cs
+D:\Developer\Codecademy\AppInterfaces\obj\Debug\netcoreapp3.1\AppInterfaces.csproj.CoreCompileInputs.cache
+D:\Developer\Codecademy\AppInterfaces\obj\Debug\netcoreapp3.1\AppInterfaces.dll
+D:\Developer\Codecademy\AppInterfaces\obj\Debug\netcoreapp3.1\AppInterfaces.pdb
+D:\Developer\Codecademy\AppInterfaces\obj\Debug\netcoreapp3.1\AppInterfaces.genruntimeconfig.cache

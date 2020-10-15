@@ -1,0 +1,13 @@
+D:\Developer\Codecademy\SupernaturalInheritance\bin\Debug\netcoreapp3.1\SupernaturalInheritance.exe
+D:\Developer\Codecademy\SupernaturalInheritance\bin\Debug\netcoreapp3.1\SupernaturalInheritance.deps.json
+D:\Developer\Codecademy\SupernaturalInheritance\bin\Debug\netcoreapp3.1\SupernaturalInheritance.runtimeconfig.json
+D:\Developer\Codecademy\SupernaturalInheritance\bin\Debug\netcoreapp3.1\SupernaturalInheritance.runtimeconfig.dev.json
+D:\Developer\Codecademy\SupernaturalInheritance\bin\Debug\netcoreapp3.1\SupernaturalInheritance.dll
+D:\Developer\Codecademy\SupernaturalInheritance\bin\Debug\netcoreapp3.1\SupernaturalInheritance.pdb
+D:\Developer\Codecademy\SupernaturalInheritance\obj\Debug\netcoreapp3.1\SupernaturalInheritance.csprojAssemblyReference.cache
+D:\Developer\Codecademy\SupernaturalInheritance\obj\Debug\netcoreapp3.1\SupernaturalInheritance.AssemblyInfoInputs.cache
+D:\Developer\Codecademy\SupernaturalInheritance\obj\Debug\netcoreapp3.1\SupernaturalInheritance.AssemblyInfo.cs
+D:\Developer\Codecademy\SupernaturalInheritance\obj\Debug\netcoreapp3.1\SupernaturalInheritance.csproj.CoreCompileInputs.cache
+D:\Developer\Codecademy\SupernaturalInheritance\obj\Debug\netcoreapp3.1\SupernaturalInheritance.dll
+D:\Developer\Codecademy\SupernaturalInheritance\obj\Debug\netcoreapp3.1\SupernaturalInheritance.pdb
+D:\Developer\Codecademy\SupernaturalInheritance\obj\Debug\netcoreapp3.1\SupernaturalInheritance.genruntimeconfig.cache

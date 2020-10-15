@@ -1,0 +1,13 @@
+D:\Developer\Codecademy\ExquisiteCorpse\bin\Debug\netcoreapp3.1\ExquisiteCorpse.exe
+D:\Developer\Codecademy\ExquisiteCorpse\bin\Debug\netcoreapp3.1\ExquisiteCorpse.deps.json
+D:\Developer\Codecademy\ExquisiteCorpse\bin\Debug\netcoreapp3.1\ExquisiteCorpse.runtimeconfig.json
+D:\Developer\Codecademy\ExquisiteCorpse\bin\Debug\netcoreapp3.1\ExquisiteCorpse.runtimeconfig.dev.json
+D:\Developer\Codecademy\ExquisiteCorpse\bin\Debug\netcoreapp3.1\ExquisiteCorpse.dll
+D:\Developer\Codecademy\ExquisiteCorpse\bin\Debug\netcoreapp3.1\ExquisiteCorpse.pdb
+D:\Developer\Codecademy\ExquisiteCorpse\obj\Debug\netcoreapp3.1\ExquisiteCorpse.csprojAssemblyReference.cache
+D:\Developer\Codecademy\ExquisiteCorpse\obj\Debug\netcoreapp3.1\ExquisiteCorpse.AssemblyInfoInputs.cache
+D:\Developer\Codecademy\ExquisiteCorpse\obj\Debug\netcoreapp3.1\ExquisiteCorpse.AssemblyInfo.cs
+D:\Developer\Codecademy\ExquisiteCorpse\obj\Debug\netcoreapp3.1\ExquisiteCorpse.csproj.CoreCompileInputs.cache
+D:\Developer\Codecademy\ExquisiteCorpse\obj\Debug\netcoreapp3.1\ExquisiteCorpse.dll
+D:\Developer\Codecademy\ExquisiteCorpse\obj\Debug\netcoreapp3.1\ExquisiteCorpse.pdb
+D:\Developer\Codecademy\ExquisiteCorpse\obj\Debug\netcoreapp3.1\ExquisiteCorpse.genruntimeconfig.cache
